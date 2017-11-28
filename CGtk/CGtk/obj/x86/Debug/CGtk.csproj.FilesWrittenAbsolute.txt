@@ -1,0 +1,6 @@
+/home/serpop/MEGAsync/ED/CGtk/CGtk/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/serpop/MEGAsync/ED/CGtk/CGtk/obj/x86/Debug/CGtk.gtk-gui.gui.stetic
+/home/serpop/MEGAsync/ED/CGtk/CGtk/bin/Debug/CGtk.exe.mdb
+/home/serpop/MEGAsync/ED/CGtk/CGtk/bin/Debug/CGtk.exe
+/home/serpop/MEGAsync/ED/CGtk/CGtk/obj/x86/Debug/CGtk.exe
+/home/serpop/MEGAsync/ED/CGtk/CGtk/obj/x86/Debug/CGtk.exe.mdb
