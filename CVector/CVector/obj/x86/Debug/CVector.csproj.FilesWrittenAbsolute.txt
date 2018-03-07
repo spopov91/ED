@@ -1,0 +1,5 @@
+/home/serpop/ED/CVector/CVector/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/serpop/ED/CVector/CVector/bin/Debug/CVector.exe.mdb
+/home/serpop/ED/CVector/CVector/bin/Debug/CVector.exe
+/home/serpop/ED/CVector/CVector/obj/x86/Debug/CVector.exe
+/home/serpop/ED/CVector/CVector/obj/x86/Debug/CVector.exe.mdb
