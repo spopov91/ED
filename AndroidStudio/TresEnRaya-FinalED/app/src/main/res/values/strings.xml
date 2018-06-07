@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TRES EN RAYA</string>
+    <string name="unJugador">1 Jugador</string>
+    <string name="dosJugadores">2 Jugadores</string>
+    <string name="facil">Fácil</string>
+    <string name="imposible">Imposible</string>
+    <string name="normal">Normal</string>
+    <string name="crucesGanan">Gana cruz!</string>
+    <string name="circulosGanan">Gana círculo!</string>
+    <string name="empate">Empate!</string>
+    <string name="casilla">Casilla</string>
+
+</resources>
